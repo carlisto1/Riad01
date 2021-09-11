@@ -1,0 +1,30 @@
+.h3, h3 {
+    font-size: 1.75rem;
+	text-align: right;
+}
+.post-item .content p{
+	text-align: center;
+	font-size:18px
+}
+.top-footer li a ,.top-footer p{
+	text-align: right;
+}
+.about-2 .checklist li:before {
+	
+margin-left: 350px;
+color:#e40b28 ;
+}
+  h3,   h6{
+	text-align: right;
+}
+p,h2,h4{
+	text-align: center;
+
+}
+.slider-item h1{
+	text-align: center;
+}
+
+.about .feature-list li{
+	text-align: right;
+}
